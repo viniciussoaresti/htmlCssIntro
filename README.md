@@ -1,11 +1,4 @@
-<div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="HtmlIntro" />
-
-  &#xa0;
-
-  <!-- <a href="https://htmlintro.netlify.app">Demo</a> -->
-</div>
-
+<div align="center" id="top">&#xa0;</div>
 <h1 align="center">HtmlIntro</h1>
 
 <p align="center">
@@ -56,32 +49,18 @@ Digital Innovation One's Introdução a criação de websites com HTML5 e CSS3 p
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [GitHub](https://github.com/)
 
 ## :white_check_mark: Requirements ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+Before starting :checkered_flag:, you don't need to have anything installed.
 
 ## :checkered_flag: Starting ##
 
 ```bash
-# Clone this project
-$ git clone https://github.com/viniciussoaresti/htmlintro
-
-# Access
-$ cd htmlintro
-
-# Install dependencies
-$ yarn
-
-# Run the project
-$ yarn start
-
-# The server will initialize in the <http://localhost:3000>
+Open the html file!
 ```
 
 ## :memo: License ##
