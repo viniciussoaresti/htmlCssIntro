@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <title>HTML Tutorial</title>
         <meta charset="utf-8">
-        <title>HTML Tutorial!</title>
         <link rel="stylesheet" href="style.css">
+        <script type="text/javascript" src="main.js"></script>
     </head>
-    <body>
+    <body onload="loaded()">
         <header>
             <img src="im2.png" alt="Foto do Vinícius Soares" class="photo">
             <h1 id="title">Vinícius Soares</h1>
@@ -26,9 +27,20 @@
                     In non pretium ipsum. Proin eu nibh eleifend, sagittis est tincidunt, ultrices augue. Suspendisse sed mi feugiat, posuere metus eget,
                     consectetur nibh. Nulla aliquet quam vel quam sodales, et hendrerit felis sodales. Vivamus finibus diam magna, sit amet tempor tortor
                     ullamcorper vel. Vestibulum ac tincidunt lacus. Phasellus pulvinar interdum egestas.
+                    <h4 id="gostou"></h4> 
+                    <button type="button" onclick="gostou()">Gostei</button>
+                    <button type="button" onclick="naoGostou()">Não Gostei</button>
+                    <button id="mouseover" type="button" onmouseover="teste()" onmouseout="teste2()">Teste</button>
+                    <button id="mouseover" type="button" onmouseover="teste(this)" onmouseout="teste2(this)">Teste 2</button>
+                </p>
                 </p>
             </article>
-        </section>    
+        </section>
+        <select onchange="onChange(this)">
+            <option value="1">V1</option>
+            <option value="2">V2</option>
+            <option value="3">V3</option>
+        </select>    
         <footer>
             <ul class="contact_list"> <!-- <ol> -->
                 <li>
