@@ -1,8 +1,8 @@
 <div align="center" id="top">
-  <img src="./.github/app.gif" alt="CrunchFlix's gif exhibiting functionalities" />
+  <img src="./.github/app.gif" alt="Html and Css Intro's gif exhibiting functionalities" />
   &#xa0;
 
-  <a href="https://crunchflix.netlify.app">Demo</a> 
+  <a href="https://htmlcssintro.netlify.app">Demo</a> 
 </div>
 
 <h1 align="center">Html and Css Intro</h1>
