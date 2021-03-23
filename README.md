@@ -1,4 +1,10 @@
-<div align="center" id="top">&#xa0;</div>
+<div align="center" id="top">
+  <img src="./.github/app.gif" alt="CrunchFlix's gif exhibiting functionalities" />
+  &#xa0;
+
+  <a href="https://crunchflix.netlify.app">Demo</a> 
+</div>
+
 <h1 align="center">Html and Css Intro</h1>
 
 <p align="center">
