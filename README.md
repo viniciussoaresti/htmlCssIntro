@@ -1,5 +1,5 @@
 <div align="center" id="top">
-  <img src="./.github/app.gif" alt="Html and Css Intro's gif exhibiting functionalities" />
+  <img src="./github/app.gif" alt="Html and Css Intro's gif exhibiting functionalities" />
   &#xa0;
 
   <a href="https://htmlcssintro.netlify.app">Demo</a> 
