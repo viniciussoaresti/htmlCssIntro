@@ -59,16 +59,6 @@ The following tools were used in this project:
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [GitHub](https://github.com/)
 
-## :white_check_mark: Requirements ##
-
-Before starting :checkered_flag:, you don't need to have anything installed.
-
-## :checkered_flag: Starting ##
-
-```bash
-Open the html file!
-```
-
 ## :memo: License ##
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
