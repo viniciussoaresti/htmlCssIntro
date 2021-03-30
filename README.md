@@ -45,7 +45,7 @@
 
 ## :dart: About ##
 
-Digital Innovation One's Introdução a criação de websites com HTML5 e CSS3 project.
+Digital Innovation One's Introdução a criação de websites com HTML5 e CSS3 project 🌠
 
 ## :sparkles: Features ##
 
